@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -44,3 +45,6 @@ Cloud9 > Preferences > Project Settings > Language Support.
 
 Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE.
 To watch some training videos, visit http://www.youtube.com/user/c9ide.
+=======
+# datapreready
+>>>>>>> 81769aeea1e637c6e01770d0d27102f41883cccb
