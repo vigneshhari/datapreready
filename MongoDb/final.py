@@ -71,4 +71,5 @@ for i in range(0,len(xunf.values()[0])):
 	for k in xunf.values():
 		temp.append(k[i])
 	finalx.append(temp)
-print finalx
+
+
